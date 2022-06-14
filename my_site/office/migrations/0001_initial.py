@@ -19,5 +19,5 @@ class Migration(migrations.Migration):
                 ('last_name', models.CharField(max_length=30)),
                 ('age', models.IntegerField()),
             ],
-        ),
+        ), 
     ]
